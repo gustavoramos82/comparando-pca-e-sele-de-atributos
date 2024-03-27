@@ -61,5 +61,5 @@ usando ou o SVM ou o Hist gradiente boosting, dependendo do caso.
 
 Já sabemos que a seleção dos atributos é a melhor,então poderiamos fazer:
 - mudar os parametros do modelo para ter uma melhor perfomace
-- cross validation para avaliar mlehort os modelos
+- cross validation para avaliar melhor os modelos
 - tentar outras variações do pca como o kernel pca para verificar se tem alguma melhora
